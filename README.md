@@ -7,6 +7,7 @@ Visual studio settings
 + 顯示空白區塊
 + 指定 Tab 大小
 + 修改字型
++ 刪除整個單字
 
 小技巧
 ----
