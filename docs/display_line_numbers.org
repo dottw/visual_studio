@@ -1,0 +1,7 @@
+#+TITLE: Display line numbers
+
+* Steps
+  在 menu 列, 選擇 Tools, Options 後 Text Editor -> All Languages, General -> Display -> 勾選 line numbers
+
+* References
+  + [[https://msdn.microsoft.com/en-us/library/ms165340.aspx][MSDN - How to: Display Line Numbers in the Editor]]
