@@ -3,7 +3,7 @@ Visual Studio 小技巧
 
 目錄
 ----
-+ [顯示行號](./display_line_numbers.org)
++ [顯示行號](display_line_numbers.org)
 + 顯示空白區塊
 + 指定 Tab 大小
 + 修改字型
