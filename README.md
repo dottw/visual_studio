@@ -1,4 +1,4 @@
-Visual studio 小技巧
+Visual Studio 小技巧
 ====
 
 目錄
